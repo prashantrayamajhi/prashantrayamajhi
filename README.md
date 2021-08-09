@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning Redux
 - 📫 How to reach me: prashantrayamajhi85@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prashantrayamajhi&count_private=true&show_icons=true&theme=algolia)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prashantrayamajhi&count_private=true&include_all_commits=true&show_icons=true&theme=algolia)
 
