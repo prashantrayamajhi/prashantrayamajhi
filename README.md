@@ -8,3 +8,6 @@
 - 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **prashantrayamajhi85@gmail.com**
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashantrayamajhi&show_icons=true&locale=en" alt="prashantrayamajhi" /></p>
+
